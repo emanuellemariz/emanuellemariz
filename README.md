@@ -22,13 +22,21 @@ Estou ingressando na área de Qualidade e Testes de Software e aqui compartilho 
 
  Neste projeto (elaborado em colaboração com a Base2 Tecnologia - especializada e premiada em testes de software no Brasil), planejei, elaborei e executei os testes necessários para o funcionamento do fluxo principal de uma loja online. Também levei em consideração testar a usabilidade do site e funcionalidades adicionais.
 
- <strong>Entendendo os requisitos e planejando testes</strong> 📑
+📑 <strong>Entendendo os requisitos e planejando testes</strong> 
 
-O fluxo da macro atividade principal do site envolviam as etapas abaixo e suas possíveis sub etapas:
+O fluxo da macro atividade principal do site envolvia as etapas abaixo e suas possíveis sub etapas:
  
 <div align='center'> <img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/fluxo1.jpg"> </div>
 
 Tive acesso também a um documento mostrando a estrutura do serviço e suas regras de negócio, que após leitura minuciosa, fiz o mapeamento das funcionalidades do site a serem testadas e também de alguns recursos da Página Inicial.
+Como mencionado no projeto, a prioridade dos testes seria garantir a qualidade do serviço da macro atividade principal do sistema, então planejei testes manuais funcionais para as principais funcionalidades e também testes manuais de usabilidade em uma tabela.
+<img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/plan.jpg"> 
+<img width="450" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/loja-1.jpg">
+
+🗺️ <strong>Mapeamento dos Testes</strong> 
+
+
+
 
  </detais>
 <!--
