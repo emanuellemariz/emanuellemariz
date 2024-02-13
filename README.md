@@ -38,7 +38,11 @@ Como mencionado no projeto, a prioridade dos testes seria garantir a qualidade d
 
 Para cada um das funcionalidades identificadas, escrevi cenários de testes e os organizei em uma tabela de Mapeamento de Cenários, que incluía o nome de cada Cenário acompanhado de um identificador único, seu grau de complexidade, tipo de teste, se era necessário massa de teste para a execução do teste, a funcionalidade acssociada ao Caso de Teste, se o teste era passível de automação, necessidade de Teste de Regressão para aquele cenário e a Prioridade.
 É muito importante destacar a Prioridade dos Testes a serem executados, tendo como P1 (grau mais alto de prioridade) os testes que pertencem às funcionalidades com grau maior de criticidade e/ou mais importantes para o negócio.
-Fiz o mapeamento de 34 cenários de teste, com descrição e Passo a Passo de cada caso.
+Fiz o mapeamento de 34 cenários de teste, com descrição e Passo a Passo de cada caso escrito em Gherkin.
+
+
+<img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/CTS.jpg">
+<img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/CNS.jpg">
 
 
 
