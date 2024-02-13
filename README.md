@@ -51,7 +51,11 @@ Evidenciei cada teste em um documento, como requisitado.
 
 <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/exc1.png"> <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/exc2.png">
 
+🐛 <strong>Criando Relatório de Bugs encontrados</strong>
 
+Após executar todos os testes, criei um documento contendo os relatórios de bugs (Bug Reports) encontrados, com descrição detalhada do erro e todas as informações necessárias para que o bug seja verificado e reproduzido em outra máquina, além da evidência do bug. 
+
+<img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/bug1%20img.jpg"> <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/bug%20rept.jpg">
 
 
  </detais>
