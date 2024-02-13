@@ -34,7 +34,7 @@ Como mencionado no projeto, a prioridade dos testes seria garantir a qualidade d
 <img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/plan.jpg"> 
 <img width="450" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/loja-1.jpg">
 
-🗺️ <strong>Mapeamento dos Cenários de Testes</strong> 
+🗺️ <strong>Mapeamento e Escrita dos Cenários de Testes</strong> 
 
 Para cada um das funcionalidades identificadas, escrevi cenários de testes e os organizei em uma tabela de Mapeamento de Cenários, que incluía o nome de cada Cenário acompanhado de um identificador único, seu grau de complexidade, tipo de teste, se era necessário massa de teste para a execução do teste, a funcionalidade acssociada ao Caso de Teste, se o teste era passível de automação, necessidade de Teste de Regressão para aquele cenário e a Prioridade.
 É muito importante destacar a Prioridade dos Testes a serem executados, tendo como P1 (grau mais alto de prioridade) os testes que pertencem às funcionalidades com grau maior de criticidade e/ou mais importantes para o negócio.
@@ -43,6 +43,13 @@ Fiz o mapeamento de 34 cenários de teste, com descrição e Passo a Passo de ca
 
 <img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/CTS.jpg">
 <img width="500" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/CNS.jpg">
+
+🔎 <strong>Testando cada Cenário</strong>
+
+Testei cada cenário seguindo o grau de prioridade (de maior prioridade para menor prioridade) e gerei massas de teste quando necessário.
+Evidenciei cada teste em um documento, como requisitado.
+
+<img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/exc1.png"> <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/exc2.png">
 
 
 
