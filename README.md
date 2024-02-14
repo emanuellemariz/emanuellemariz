@@ -22,6 +22,8 @@ Estou ingressando na área de Qualidade e Testes de Software e aqui compartilho 
 
  Neste projeto (elaborado em colaboração com a Base2 Tecnologia - especializada e premiada em testes de software no Brasil), planejei, elaborei e executei os testes necessários para o funcionamento do fluxo principal de uma loja online. Também levei em consideração testar a usabilidade do site e funcionalidades adicionais.
 
+ A importância de testar um sistema como esse garante a qualidade e funcionamento do serviço prestado,  evitando que o usuário final encontre erros que estraguem sua experiência como clientes.
+
 📑 <strong>Entendendo os requisitos e planejando testes</strong> 
 
 O fluxo da macro atividade principal do site envolvia as etapas abaixo e suas possíveis sub etapas:
@@ -54,6 +56,8 @@ Evidenciei cada teste em um documento, como requisitado.
 🐛 <strong>Criando Relatório de Bugs encontrados</strong>
 
 Após executar todos os testes, criei um documento contendo os relatórios de bugs (Bug Reports) encontrados, com descrição detalhada do erro e todas as informações necessárias para que o bug seja verificado e reproduzido em outra máquina, além da evidência do bug. 
+
+Encontrei e reportei um total de 3 erros, estando 2 deles em campos do formulário de faturamento do pedido e 1 erro de usabilidade na sessão de Catálogo do site.
 
 <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/bug1%20img.jpg"> <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/bug%20rept.jpg">
 
