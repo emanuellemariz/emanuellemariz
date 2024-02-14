@@ -57,6 +57,12 @@ Após executar todos os testes, criei um documento contendo os relatórios de bu
 
 <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/bug1%20img.jpg"> <img width="400" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/bug%20rept.jpg">
 
+Como última parte da entrega dos testes, realizei a automação end-to-end de todo o core path da loja (incluindo a pesquisa de produto pelo usuário, seleção do produto, adição no carrinho de compras, preenchimento do formulário de faturamento do pedido e por fim, validação da tela de confirmação de Pedido Recebido) utilizando a ferramenta Cypress.
+
+O <a href="https://github.com/emanuellemariz/Projeto-Final-e2e-Loja/blob/main/cypress/e2e/1-getting-started/Core-path-Shop-Mentorama.cy.js
+">código da automação</a> pode ser encontrado no repositório <a href="https://github.com/emanuellemariz/Projeto-Final-e2e-Loja/tree/main">Projeto-Final-e2e-Loja</a>.
+
+
 
  </detais>
 <!--
