@@ -67,10 +67,17 @@ Como última parte da entrega dos testes, realizei a automação end-to-end de t
 
 O <a href="https://github.com/emanuellemariz/Projeto-Final-e2e-Loja/blob/main/cypress/e2e/1-getting-started/Core-path-Shop-Mentorama.cy.js
 ">código da automação</a> pode ser encontrado no repositório <a href="https://github.com/emanuellemariz/Projeto-Final-e2e-Loja/tree/main">Projeto-Final-e2e-Loja</a>.
+<br>
+<br>
 
+ </details>
+ <details>
+   <summary><strong>Projeto Voluntário Care4You - SouJunior Labs </strong>(em curso ⌛)</summary><br>
 
-
- </detais>
+   O projeto visa desenvolver o software Agenda Saúde, que tem como finalidade conectar pacientes com clínicas/profissionais de saúde de sua região.
+   O software está atualmente em desenvolvimento e sou responsável pela parte de qualidade, testes manuais e em API na squad. <br>
+   Em breve mais informações.⌛
+ </details>
 <!--
 **emanuellemariz/emanuellemariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
