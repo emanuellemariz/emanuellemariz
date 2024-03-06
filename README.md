@@ -1,7 +1,9 @@
 # [![emanuelle mariz header](https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/icon/Emanuelle%20Mariz.png)](https://www.linkedin.com/in/emanuelle-mariz-qa/)
 
 <p>
-  <a href="https://www.linkedin.com/in/emanuelle-mariz-qa/"><img width="30" align='center' src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/icon/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/emanuelle-mariz-qa/"><img width="30" align='center' src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/icon/linkedin.png">
+  </a> 
+  <a href="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/docs/Emanuelle%20Mariz%20Qa.pdf"> <img width="60" align='center' src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/icon/png-clipart-curriculum-vitae.png"> </a>
 </p>
 
 
