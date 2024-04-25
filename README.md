@@ -81,7 +81,7 @@ O <a href="https://github.com/emanuellemariz/Projeto-Final-e2e-Loja/blob/main/cy
  <details>
    <summary><strong>Projeto 01 de Automação de Testes de Frontend Web com Python e Selenium</strong></summary><br>
 
-   Este foi o primeiro projeto prático do Curso de Automação de Testes de Frontend Web com Python e Selenium do Prof. Paulo Oliveira.
+   Este foi o primeiro projeto prático que realizei no Curso de Automação de Testes de Frontend Web com Python e Selenium do Prof. Paulo Oliveira.
    Foi proposto um passo a passo para automatizar um teste no site https://www.saucedemo.com/ que simula uma loja e-commerce.
    <br>
    <br>
