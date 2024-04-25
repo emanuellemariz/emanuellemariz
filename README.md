@@ -85,7 +85,7 @@ O <a href="https://github.com/emanuellemariz/Projeto-Final-e2e-Loja/blob/main/cy
    Foi proposto um passo a passo para automatizar um teste no site https://www.saucedemo.com/ que simula uma loja e-commerce.
    <br>
    <br>
-   O <a href="https://github.com/emanuellemariz/Projeto-Pratico-Selenium-Pytest">código da automação</a> possui 4 testes diferentes e está estruturado nos padrões Page Object Model (POM) e Singleton.
+   O <a href="https://github.com/emanuellemariz/Projeto-Pratico-Selenium-Pytest">código da automação</a> possui 4 testes com fluxos diferentes e está estruturado nos padrões Page Object Model (POM) e Singleton.
    <br>
    <br>
   <img width="800" src="https://raw.githubusercontent.com/emanuellemariz/emanuellemariz/main/PFM-1/passed_tests.jpg">
